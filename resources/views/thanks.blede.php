@@ -7,6 +7,7 @@
   <title>Document</title>
 </head>
 <body>
-  
+  <h1>お問い合わせ完了ページ</h1>
+  <p>お問い合わせありがとうございます。</p>
 </body>
 </html>

@@ -15,7 +15,10 @@
     @csrf
     <input type="text" name="content">
     <h3>メールアドレス</h3>
-    <input type="text" </form>
+    <input type="text" name="address">
+    <br>
+    <input type="submit">
+  </form>
 </body>
 
 </html>
